@@ -9,7 +9,7 @@ Check:
   * AssignmentID is valid
   * submissionFile is the correct type
 
-Expected result: successful submission
+Expected result: successful submission (returns True Boolean value)
 
 
 Test with submission and note
@@ -22,4 +22,4 @@ Check:
   * submissionFile is the correct type
   * note is acceptable size
 
-Expected result: successful submission
+Expected result: successful submission (returns True Boolean value)
